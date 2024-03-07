@@ -6,6 +6,7 @@ import os
 #Deloitte
 openai.api_type = "azure"
 openai.api_base = "https://clause-ki.openai.azure.com/"
+openai.api_version = "2023-07-01-preview"
 openai.api_key = ""
 deployment = "gpt-3-fagdag" 
 
