@@ -18,7 +18,7 @@ Sjefen hos Produsent AS har lite tro på Copilot Studio og ønsker en annen type
 
 1. Gå inn i github repository-en og lag en codespace
 2. skriv 'pip install -r reqs/requirements.txt' i terminalen
-3. På linje 9 i chatbot.py sett inn API nøkkel-en som blir gitt ut 
+3. På linje 10 i chatbot.py: sett inn API nøkkel-en som blir gitt ut 
 4. Skriv 'streamlit run chatbot.py' i terminalen
 5. Klikk på 'Open in Browser' i boksen som dukker opp nede til høyre
 
